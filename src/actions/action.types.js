@@ -1,0 +1,6 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const SET_LANGUAGE = "SET_LANGUAGE";
+export const RESET_LANGUAGE = "RESET_LANGUAGE";
+export const SET_PROPERTY_VALUE = "SET_PROPERTY_VALUE";
+export const RESET_PROPERTY_VALUE = "RESET_PROPERTY_VALUE";
